@@ -234,7 +234,7 @@
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <!-- updated on 2016-03-18. -->
-            <version>19.0</version>
+            <version>30.0-android</version>
         </dependency>
 
         <dependency>
